@@ -1,8 +1,10 @@
 # 19CS545-Ex4 - Create a collaborative directory in GitHub
 
 # AIM:
-To create a collabora ve directory. 
+To create a Repository
+
 # Procedure:
+
 1. Crea ng a directory 
 The first line [root@servera ~]# mkdir -p /common/admin creates a new 
 directory named /common/admin. The mkdir command is used to create new directories. 
@@ -61,8 +63,12 @@ are used here to show detailed informa on about the file, including permissions.
 The output -rw-r--r-- 1 harry admin 0 May 7 23:39 /common/admin/file1 shows the following 
 details
 
+
 # Output:
-![image](https://github.com/user-attachments/assets/3f9a7734-2125-4a2c-b9e8-ef4d4c59209f)
+
+![image](https://github.com/user-attachments/assets/1f9dff1e-5dac-4500-83c2-6c79ce65fa21)
+
 
 # Result:
-Thus a collabora ve directory has been created successfully.. 
+
+Thus a Repository has been created successfully.
